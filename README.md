@@ -25,7 +25,7 @@ const anna = {
 ### tech stack 💻
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,powerbi" />
 </p>
 
 ### currently 🌷
