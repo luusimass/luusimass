@@ -10,7 +10,7 @@
 const anna = {
   education: "Análise e Desenvolvimento de Sistemas",
   focus: ["Business Intelligence", "Front-end", "Data Modeling"],
-  learning: ["Python", "Kotlin", "SQL", "Software Engineering"],
+  learning: ["Python", "IA", "SQL", "Software Engineering"],
   passions: ["Technology", "Innovation", "Problem Solving"]
 }
 ```
