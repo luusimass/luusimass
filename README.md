@@ -8,8 +8,8 @@
 
 ```javascript
 const anna = {
-  education: "Análise e Desenvolvimento de Sistemas",
-  focus: ["Business Intelligence", "Front-end", "Data Modeling"],
+  education: "Computer Science",
+  focus: ["Business Intelligence", "Business Performance", "Data Modeling"],
   learning: ["Python", "IA", "SQL", "Software Engineering"],
   passions: ["Technology", "Innovation", "Problem Solving"]
 }
@@ -17,7 +17,7 @@ const anna = {
 
 ### about me 🌙
 
-🎓 ADS student at FATEC Carapicuíba  
+🎓 CC student at FIAP  
 📊 Exploring data, systems and digital solutions  
 💡 Passionate about transforming ideas into technology  
 🌱 Constantly learning and building new skills  
