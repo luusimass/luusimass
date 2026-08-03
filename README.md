@@ -17,7 +17,7 @@ const anna = {
 
 ### about me 🌙
 
-🎓 CC student at FIAP  
+🎓 CS student at FIAP  
 📊 Exploring data, systems and digital solutions  
 💡 Passionate about transforming ideas into technology  
 🌱 Constantly learning and building new skills  
