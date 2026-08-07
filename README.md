@@ -56,22 +56,6 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌎 Connect with Me
 
 <div align="center">
@@ -91,8 +75,6 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 <div align="center">
 
 ### 🍀 *Learning, building and growing one project at a time.*
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=8BAF8B"/>
 
 </div>
 ```
