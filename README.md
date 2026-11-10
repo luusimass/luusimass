@@ -8,10 +8,9 @@
 
 </div>
 
-
+---
 
 ## About
-
 Hey there! I'm **Anna**, a **Computer Science student** passionate about **Data Science**, **Artificial Intelligence** and **Software Development**.
 
 I believe technology is much more than writing code—it's about understanding problems, analyzing data and building solutions that create real impact.
