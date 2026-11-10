@@ -36,10 +36,16 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,mysql,mongodb,javascript,html,css,flutter,googlecloud,databricks,powershell&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,php,mysql,mongodb,javascript,html,css,flutter,googlecloud,databricks&theme=light" />
 
 </div>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+</div>
 ---
 
 ## Connect with Me
