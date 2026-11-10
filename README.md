@@ -36,8 +36,9 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,php,mysql,mongodb,javascript,html,css,flutter,googlecloud,databricks,powershell&theme=light" />
 
-<img src="https://skillicons.dev/icons?i=python,php,mysql,mongodb,javascript,html,css,flutter,googlecloud,databricks&theme=light" />
+</div>
 
 <br><br>
 
