@@ -31,11 +31,12 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 ---
 
+
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,mysql&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,php,mysql,javascript,html,css,flutter,googlecloud, mongoDB&theme=light" />
 
 <br><br>
 
