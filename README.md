@@ -68,7 +68,6 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 <div align="center">
 
-### *Learning, building and growing one project at a time.*
+### Building, learning, evolving.*
 
 </div>
-```
