@@ -2,7 +2,7 @@
 
 # Anna's Lab ✦
 
-### *A space where technology, data and creativity become meaningful solutions.*
+### *A space where technology, data and creativity become meaningful solutions*
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=8BAF8B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Data+Science+Enthusiast;Building+solutions+with+technology+%F0%9F%8C%BF" />
 
