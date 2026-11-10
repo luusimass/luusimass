@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ About Me
+## About
 
 Hey there! I'm **Anna**, a **Computer Science student** passionate about **Data Science**, **Artificial Intelligence** and **Software Development**.
 
@@ -20,7 +20,7 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 ---
 
-## 🌱 Exploring
+## Exploring
 
 - 📊 Data Science
 - 🤖 Artificial Intelligence
@@ -31,7 +31,7 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,17 +46,7 @@ This is my little corner on GitHub where I share my projects, ideas and everythi
 
 ---
 
-## 📚 Currently
-
-- 🎓 Studying Computer Science
-- 🐍 Learning Python for Data Science
-- 📊 Creating dashboards with Power BI
-- 🗄️ Improving SQL & Database skills
-- 🚀 Building personal projects
-
----
-
-## 🌎 Connect with Me
+## Connect with Me
 
 <div align="center">
 
